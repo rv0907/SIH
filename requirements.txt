@@ -1,9 +1,0 @@
-flask
-<<<<<<< HEAD
-scikit-learn
-=======
-sklearn
->>>>>>> master
-numpy
-pandas
-flask-cors
